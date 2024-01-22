@@ -28,3 +28,4 @@ for button in boutons:
 bt = Label(fenetre,text = "Effacer",bg = "#476C9B",fg= "#FFF",height = 4, width =6)
 
 
+
